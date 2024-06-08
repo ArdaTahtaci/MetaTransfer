@@ -5,4 +5,3 @@ The version I uploded here is not woking properly as it should. You can inspect 
 
 The working version has the screenshots in /images folder
 
-![Alt text](images/21.39.35.jpeg)
